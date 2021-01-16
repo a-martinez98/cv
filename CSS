@@ -1,0 +1,30 @@
+Body{ 
+background-color: #f4f4f4;
+font-family: arial;
+color: black;
+emoji-color: black;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 4%;
+}
+ h1{
+   color: black;
+   text-align: center;
+  }
+h3 {
+  color: grey;
+   text-align: center;
+}
+tr{
+  text-align: center
+}
+td1{
+  text-align: left
+}
+li{
+  text-align: center;
+}
